@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'KZImageComparisonView_Example' do
+  pod 'KZImageComparisonView', :path => '../'
+
+  target 'KZImageComparisonView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
