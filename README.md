@@ -7,6 +7,9 @@
 
 ## Example
 
+![alt text](https://raw.githubusercontent.com/konstantinzhzh/KZImageComparisonView/development/Example.gif)
+
+
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
