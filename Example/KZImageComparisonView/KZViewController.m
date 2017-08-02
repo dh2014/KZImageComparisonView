@@ -7,6 +7,7 @@
 //
 
 #import "KZViewController.h"
+#import <KZImageComparisonView/KZImageComparisonView.h>
 
 @interface KZViewController ()
 
@@ -17,7 +18,16 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    
+    KZImageComparisonView *imageComparisonView = [[KZImageComparisonView alloc] initWithLeftImage:[UIImage imageNamed:@"left"]
+                                                                                       rightImage:[UIImage imageNamed:@"right"]
+                                                                                  separatingImage:[UIImage imageNamed:@"finger"]];
+    imageComparisonView.frame = CGRectMake(0, 0, 300, self.view.frame.size.width);
+    imageComparisonView.contentMode = UIViewContentModeScaleAspectFit;
+    imageComparisonView.center = CGPointMake(self.view.bounds.size.width / 2.0f, self.view.bounds.size.height / 2.0f);
+    imageComparisonView.clipsToBounds = NO;
+    
+    [self.view addSubview:imageComparisonView];
 }
 
 - (void)didReceiveMemoryWarning

@@ -1,0 +1,16 @@
+PODS:
+  - KZImageComparisonView (0.1.0)
+
+DEPENDENCIES:
+  - KZImageComparisonView (from `../`)
+
+EXTERNAL SOURCES:
+  KZImageComparisonView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  KZImageComparisonView: c907671f9ff75f5868700c9ef6f64aad4ede0e09
+
+PODFILE CHECKSUM: 9dbeecb6521e2eaf0cac58de153470f192707538
+
+COCOAPODS: 1.3.0.beta.2

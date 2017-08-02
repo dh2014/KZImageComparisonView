@@ -1,6 +1,6 @@
 # KZImageComparisonView
 
-[![CI Status](http://img.shields.io/travis/Zhamtsuev Konstantin/KZImageComparisonView.svg?style=flat)](https://travis-ci.org/Zhamtsuev Konstantin/KZImageComparisonView)
+[![CI Status](http://img.shields.io/travis/konstantinzhzh/KZImageComparisonView.svg?style=flat)](https://travis-ci.org/konstantinzhzh/KZImageComparisonView)
 [![Version](https://img.shields.io/cocoapods/v/KZImageComparisonView.svg?style=flat)](http://cocoapods.org/pods/KZImageComparisonView)
 [![License](https://img.shields.io/cocoapods/l/KZImageComparisonView.svg?style=flat)](http://cocoapods.org/pods/KZImageComparisonView)
 [![Platform](https://img.shields.io/cocoapods/p/KZImageComparisonView.svg?style=flat)](http://cocoapods.org/pods/KZImageComparisonView)
@@ -22,7 +22,7 @@ pod "KZImageComparisonView"
 
 ## Author
 
-Zhamtsuev Konstantin, zhamtsuev.konstantin@sibers.com
+Konstantin Zhamtsuev, konstantinzhzh@gmail.com
 
 ## License
 
