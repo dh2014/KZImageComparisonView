@@ -546,6 +546,7 @@
 			baseConfigurationReference = 1C71ECD505E0C5D634EE1C4B /* Pods-KZImageComparisonView_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "KZImageComparisonView/KZImageComparisonView-Prefix.pch";
@@ -563,6 +564,7 @@
 			baseConfigurationReference = E28454F7EF04A47A241F9DE8 /* Pods-KZImageComparisonView_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "KZImageComparisonView/KZImageComparisonView-Prefix.pch";
