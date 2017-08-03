@@ -7,159 +7,131 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0D22CE4389717FDE03D067615BDE2E1C /* KZImageComparisonView.h in Headers */ = {isa = PBXBuildFile; fileRef = 685A4B7FFA1B5F906C5DFF59E4193EF1 /* KZImageComparisonView.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2161E0C90831D2F07CFF24B75C651866 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		31617E8BE04BBEDD53BE6975A47F5F27 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		47823ED431033E26E621FB94229EBBCF /* KZImageComparisonView.m in Sources */ = {isa = PBXBuildFile; fileRef = 15C36CE922ECDC0B81348B3792FCE8B1 /* KZImageComparisonView.m */; };
-		7AB67F7BE9DFC649BFF1FE652F37C9DF /* Pods-KZImageComparisonView_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0403468A3029FF2E210ECCD882D49B1D /* Pods-KZImageComparisonView_Example-dummy.m */; };
-		8A43D09278B6DA25F28FC08803EDEE25 /* Pods-KZImageComparisonView_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 091C7534852BCC1B5C1F7EC7AB3905AB /* Pods-KZImageComparisonView_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		9BEE4F71A9F51DD31916CE60D70F5466 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		CC6426504E4E2663D3C59795B2E24FEA /* KZImageComparisonView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0A043584188226BFDC78914778F87796 /* KZImageComparisonView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DC67ABD1BAA42E4A7B0A219F28A33C9B /* Pods-KZImageComparisonView_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3559C620CAA537B99F3E662BF8E84726 /* Pods-KZImageComparisonView_Tests-dummy.m */; };
-		E3FEA634C1C5539305D7202F3CAE3A1B /* KZImageComparisonView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BEAC43E697D33EE69FF5055E0516CF7 /* KZImageComparisonView-dummy.m */; };
-		F200072AF67560F899E840D9627FDD28 /* Pods-KZImageComparisonView_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 216A59FB4CB51FDEB67A69B8A0C86BDC /* Pods-KZImageComparisonView_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		222B00AC11D3713EDA52F02D6F650773 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		58154C07EACE909304869DFA37A7641B /* Pods-KZImageComparisonView_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F62FF28A6F54E169BBE2F0D724E388E /* Pods-KZImageComparisonView_Example-dummy.m */; };
+		64FFF0914F6063A9B374CC8B23EEF14E /* KZImageComparisonView.h in Headers */ = {isa = PBXBuildFile; fileRef = A9DAAB41C34E807EA5716DDB6E26C48C /* KZImageComparisonView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6642D8B4FB0C41515F56CD2FEC3EA7ED /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		683311368147456368AE2280E24B9421 /* KZImageComparisonView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 494E8EFD2920D2E2C50D06D7A0470D1F /* KZImageComparisonView-dummy.m */; };
+		8F57DF096D05F271DD4FD33A3100A352 /* KZImageComparisonView.m in Sources */ = {isa = PBXBuildFile; fileRef = 186B73B45608E4CA83E25AD33E4AFDDE /* KZImageComparisonView.m */; };
+		B3EB6AA78A5568EEF7E3016C226F2C67 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		F2246FC775C06747E73D1ECD50EFDC14 /* Pods-KZImageComparisonView_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EB28B269D3657EE5A86AFFC3056495EE /* Pods-KZImageComparisonView_Tests-dummy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		850A651D7C1D72982F10594CFEF7428A /* PBXContainerItemProxy */ = {
+		A3A51AEC320B273E5D5F70183CE43394 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 07CFCFF7413E588BBCBA9DCA74F3FD7B;
+			remoteGlobalIDString = 1896F962B5F637AC63F000060B047B20;
 			remoteInfo = KZImageComparisonView;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0403468A3029FF2E210ECCD882D49B1D /* Pods-KZImageComparisonView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-KZImageComparisonView_Example-dummy.m"; sourceTree = "<group>"; };
-		091C7534852BCC1B5C1F7EC7AB3905AB /* Pods-KZImageComparisonView_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-KZImageComparisonView_Tests-umbrella.h"; sourceTree = "<group>"; };
-		09ED3C90CFFB8539BA89B57B77173BF2 /* KZImageComparisonView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = KZImageComparisonView.framework; path = KZImageComparisonView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		0A043584188226BFDC78914778F87796 /* KZImageComparisonView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "KZImageComparisonView-umbrella.h"; sourceTree = "<group>"; };
-		1082EBF8D98B49C497561C25D406CD88 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		15C36CE922ECDC0B81348B3792FCE8B1 /* KZImageComparisonView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = KZImageComparisonView.m; sourceTree = "<group>"; };
-		15DCA7B0E46CC5111C1734BBE4A6A11F /* Pods-KZImageComparisonView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-KZImageComparisonView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		1A037B6B0D10C126ADC10AB44FD5F152 /* Pods-KZImageComparisonView_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-KZImageComparisonView_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		1A16C1FBF75F5AB7C91BB82381541A99 /* Pods-KZImageComparisonView_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-KZImageComparisonView_Tests-resources.sh"; sourceTree = "<group>"; };
-		1AED8466C6E6D33D4947B77DE04BF253 /* Pods-KZImageComparisonView_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-KZImageComparisonView_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		216A59FB4CB51FDEB67A69B8A0C86BDC /* Pods-KZImageComparisonView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-KZImageComparisonView_Example-umbrella.h"; sourceTree = "<group>"; };
-		31E41C898EEC63D6580622CF8D4470A3 /* KZImageComparisonView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = KZImageComparisonView.xcconfig; sourceTree = "<group>"; };
-		3559C620CAA537B99F3E662BF8E84726 /* Pods-KZImageComparisonView_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-KZImageComparisonView_Tests-dummy.m"; sourceTree = "<group>"; };
-		49766B653BFE91A384219E9B98AFBEC0 /* Pods-KZImageComparisonView_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-KZImageComparisonView_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		510AFD0D5A7CE0EA30C0554F1DFB490B /* KZImageComparisonView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = KZImageComparisonView.modulemap; sourceTree = "<group>"; };
+		0EA93F9E50E40DA2040F5AD77692B2B7 /* libPods-KZImageComparisonView_Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-KZImageComparisonView_Tests.a"; path = "libPods-KZImageComparisonView_Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		10DA49FE5C861F3768F8803955BB0406 /* Pods-KZImageComparisonView_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-KZImageComparisonView_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		186B73B45608E4CA83E25AD33E4AFDDE /* KZImageComparisonView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = KZImageComparisonView.m; sourceTree = "<group>"; };
+		20ED6C54262437917EF6E8878A61CF09 /* Pods-KZImageComparisonView_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-KZImageComparisonView_Example-resources.sh"; sourceTree = "<group>"; };
+		33FE0027D297ECE76CAB4E8C9D8462F8 /* KZImageComparisonView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "KZImageComparisonView-prefix.pch"; sourceTree = "<group>"; };
+		423EA6FDAA456AA630B6778607E65978 /* KZImageComparisonView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = KZImageComparisonView.xcconfig; sourceTree = "<group>"; };
+		494E8EFD2920D2E2C50D06D7A0470D1F /* KZImageComparisonView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "KZImageComparisonView-dummy.m"; sourceTree = "<group>"; };
+		56D236D4FC563C880E4500CFBE341CBE /* Pods-KZImageComparisonView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-KZImageComparisonView_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		5C52F0BE02CE27542B8A7EEEDCE7940D /* libKZImageComparisonView.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libKZImageComparisonView.a; path = libKZImageComparisonView.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		685A4B7FFA1B5F906C5DFF59E4193EF1 /* KZImageComparisonView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KZImageComparisonView.h; sourceTree = "<group>"; };
-		6BEAC43E697D33EE69FF5055E0516CF7 /* KZImageComparisonView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "KZImageComparisonView-dummy.m"; sourceTree = "<group>"; };
-		6F55F88C884480E46FC181BC0B8E5E61 /* Pods-KZImageComparisonView_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-KZImageComparisonView_Tests.modulemap"; sourceTree = "<group>"; };
-		75D5803EB65410C872846ABB8BFC5DB5 /* Pods_KZImageComparisonView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_KZImageComparisonView_Tests.framework; path = "Pods-KZImageComparisonView_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		8A55352E85D8167373CE8369F52A96E4 /* Pods-KZImageComparisonView_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-KZImageComparisonView_Example-resources.sh"; sourceTree = "<group>"; };
+		6FB63F44E2B9104120D3DE8742A4D0A4 /* Pods-KZImageComparisonView_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-KZImageComparisonView_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		7730D19614F523E09C8E008B9D5EAAD4 /* Pods-KZImageComparisonView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-KZImageComparisonView_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		7FBD11CC3FD87AF5771A61BE1BCCEBF0 /* Pods-KZImageComparisonView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-KZImageComparisonView_Example.release.xcconfig"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		C4E2828E1F7EDFB15854EE40E5494116 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CFBD4BE2374874BFC2489347E9D177F5 /* Pods-KZImageComparisonView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-KZImageComparisonView_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		D80D2F97033DAD502487315CD81E8ED7 /* Pods-KZImageComparisonView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-KZImageComparisonView_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		DD35877C40F9988D1E99B1A3DC59D500 /* Pods-KZImageComparisonView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-KZImageComparisonView_Example.modulemap"; sourceTree = "<group>"; };
-		DF2059CD2C941AAC86052CA2E0353C9E /* Pods_KZImageComparisonView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_KZImageComparisonView_Example.framework; path = "Pods-KZImageComparisonView_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E71B60E62F594B1504EA13F00322895A /* KZImageComparisonView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "KZImageComparisonView-prefix.pch"; sourceTree = "<group>"; };
-		EAD17E5853A697087DC0A849771FD2E9 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EFBF5C29D43E9E9D043EFA4390BB99B8 /* Pods-KZImageComparisonView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-KZImageComparisonView_Example.release.xcconfig"; sourceTree = "<group>"; };
-		F7FA00645512DAF65D40B2CCF7BF9B93 /* Pods-KZImageComparisonView_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-KZImageComparisonView_Example-frameworks.sh"; sourceTree = "<group>"; };
-		FCDA5C7170EA898522D34D571BF4CB02 /* Pods-KZImageComparisonView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-KZImageComparisonView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		FFF84835B2D041C3C31565F89327C587 /* Pods-KZImageComparisonView_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-KZImageComparisonView_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		9F62FF28A6F54E169BBE2F0D724E388E /* Pods-KZImageComparisonView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-KZImageComparisonView_Example-dummy.m"; sourceTree = "<group>"; };
+		A2179F599DEFDEA2C660152EB4B0F883 /* Pods-KZImageComparisonView_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-KZImageComparisonView_Example-frameworks.sh"; sourceTree = "<group>"; };
+		A479FA3EB15ADA2C208D749C5ED3891F /* Pods-KZImageComparisonView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-KZImageComparisonView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		A9DAAB41C34E807EA5716DDB6E26C48C /* KZImageComparisonView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KZImageComparisonView.h; sourceTree = "<group>"; };
+		B6687799F362EA6AF3F823FA4A9DE19F /* Pods-KZImageComparisonView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-KZImageComparisonView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		C046D8E94CEDCFCE84A4ECE71C99584F /* Pods-KZImageComparisonView_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-KZImageComparisonView_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		C6149723BC24E77687C7287DCDD0239C /* Pods-KZImageComparisonView_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-KZImageComparisonView_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		EB28B269D3657EE5A86AFFC3056495EE /* Pods-KZImageComparisonView_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-KZImageComparisonView_Tests-dummy.m"; sourceTree = "<group>"; };
+		F1B2C8AC17A9144F94F9D196E1C51F38 /* Pods-KZImageComparisonView_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-KZImageComparisonView_Tests-resources.sh"; sourceTree = "<group>"; };
+		FE9A7217B8F108F4DAECCC546F9C1EBD /* libPods-KZImageComparisonView_Example.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-KZImageComparisonView_Example.a"; path = "libPods-KZImageComparisonView_Example.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		75BF16F1098992439CB4293ABBE34547 /* Frameworks */ = {
+		3A450ED828CE6F3F1E9DC46EC91FE8A6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				31617E8BE04BBEDD53BE6975A47F5F27 /* Foundation.framework in Frameworks */,
+				222B00AC11D3713EDA52F02D6F650773 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8B60154EC5F48F175F633EA0A1D15006 /* Frameworks */ = {
+		C2708DDB93FDE7CD88B3C1D8B3CE3998 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2161E0C90831D2F07CFF24B75C651866 /* Foundation.framework in Frameworks */,
+				6642D8B4FB0C41515F56CD2FEC3EA7ED /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C4B8214890201D288596D54AF27BC00B /* Frameworks */ = {
+		EBC421C9AFF64B3F0A4A9E74CC88EDE3 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9BEE4F71A9F51DD31916CE60D70F5466 /* Foundation.framework in Frameworks */,
+				B3EB6AA78A5568EEF7E3016C226F2C67 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		08CB42EE6499A49ED51800F4547F3ED2 /* KZImageComparisonView */ = {
+		06337571B49FE8280A5E7E14D24669BA /* Pods-KZImageComparisonView_Example */ = {
 			isa = PBXGroup;
 			children = (
-				85D7EF876A6F73AE0911FFFEA9E27066 /* Classes */,
-			);
-			name = KZImageComparisonView;
-			path = KZImageComparisonView;
-			sourceTree = "<group>";
-		};
-		279FD2B22DEF4A0EF085BAE70CB3E54C /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				32F19D78B8DD6006BF31E8BEF86C4981 /* KZImageComparisonView */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		2C70EBA61D8500E3CB2F93FB090B058A /* Targets Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				2DBCF63C35498DDC75FBB6E5B0D04E78 /* Pods-KZImageComparisonView_Example */,
-				D1B802A33BC64F247A88E54260EE8744 /* Pods-KZImageComparisonView_Tests */,
-			);
-			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		2DBCF63C35498DDC75FBB6E5B0D04E78 /* Pods-KZImageComparisonView_Example */ = {
-			isa = PBXGroup;
-			children = (
-				1082EBF8D98B49C497561C25D406CD88 /* Info.plist */,
-				DD35877C40F9988D1E99B1A3DC59D500 /* Pods-KZImageComparisonView_Example.modulemap */,
-				49766B653BFE91A384219E9B98AFBEC0 /* Pods-KZImageComparisonView_Example-acknowledgements.markdown */,
-				15DCA7B0E46CC5111C1734BBE4A6A11F /* Pods-KZImageComparisonView_Example-acknowledgements.plist */,
-				0403468A3029FF2E210ECCD882D49B1D /* Pods-KZImageComparisonView_Example-dummy.m */,
-				F7FA00645512DAF65D40B2CCF7BF9B93 /* Pods-KZImageComparisonView_Example-frameworks.sh */,
-				8A55352E85D8167373CE8369F52A96E4 /* Pods-KZImageComparisonView_Example-resources.sh */,
-				216A59FB4CB51FDEB67A69B8A0C86BDC /* Pods-KZImageComparisonView_Example-umbrella.h */,
-				CFBD4BE2374874BFC2489347E9D177F5 /* Pods-KZImageComparisonView_Example.debug.xcconfig */,
-				EFBF5C29D43E9E9D043EFA4390BB99B8 /* Pods-KZImageComparisonView_Example.release.xcconfig */,
+				C6149723BC24E77687C7287DCDD0239C /* Pods-KZImageComparisonView_Example-acknowledgements.markdown */,
+				B6687799F362EA6AF3F823FA4A9DE19F /* Pods-KZImageComparisonView_Example-acknowledgements.plist */,
+				9F62FF28A6F54E169BBE2F0D724E388E /* Pods-KZImageComparisonView_Example-dummy.m */,
+				A2179F599DEFDEA2C660152EB4B0F883 /* Pods-KZImageComparisonView_Example-frameworks.sh */,
+				20ED6C54262437917EF6E8878A61CF09 /* Pods-KZImageComparisonView_Example-resources.sh */,
+				56D236D4FC563C880E4500CFBE341CBE /* Pods-KZImageComparisonView_Example.debug.xcconfig */,
+				7FBD11CC3FD87AF5771A61BE1BCCEBF0 /* Pods-KZImageComparisonView_Example.release.xcconfig */,
 			);
 			name = "Pods-KZImageComparisonView_Example";
 			path = "Target Support Files/Pods-KZImageComparisonView_Example";
 			sourceTree = "<group>";
 		};
-		32F19D78B8DD6006BF31E8BEF86C4981 /* KZImageComparisonView */ = {
+		0EA7A44C29BF8CDC811C805849E3739C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				08CB42EE6499A49ED51800F4547F3ED2 /* KZImageComparisonView */,
-				66F6E62C838CB8496D5A4A12D1949B67 /* Support Files */,
+				5C52F0BE02CE27542B8A7EEEDCE7940D /* libKZImageComparisonView.a */,
+				FE9A7217B8F108F4DAECCC546F9C1EBD /* libPods-KZImageComparisonView_Example.a */,
+				0EA93F9E50E40DA2040F5AD77692B2B7 /* libPods-KZImageComparisonView_Tests.a */,
 			);
-			name = KZImageComparisonView;
-			path = ../..;
+			name = Products;
 			sourceTree = "<group>";
 		};
-		66F6E62C838CB8496D5A4A12D1949B67 /* Support Files */ = {
+		279FD2B22DEF4A0EF085BAE70CB3E54C /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				C4E2828E1F7EDFB15854EE40E5494116 /* Info.plist */,
-				510AFD0D5A7CE0EA30C0554F1DFB490B /* KZImageComparisonView.modulemap */,
-				31E41C898EEC63D6580622CF8D4470A3 /* KZImageComparisonView.xcconfig */,
-				6BEAC43E697D33EE69FF5055E0516CF7 /* KZImageComparisonView-dummy.m */,
-				E71B60E62F594B1504EA13F00322895A /* KZImageComparisonView-prefix.pch */,
-				0A043584188226BFDC78914778F87796 /* KZImageComparisonView-umbrella.h */,
+				F1403A4BD42942545A9F69F940B0F1E8 /* KZImageComparisonView */,
 			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/KZImageComparisonView";
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		294FF789F2611758AD3A6D337FE7B8C5 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				06337571B49FE8280A5E7E14D24669BA /* Pods-KZImageComparisonView_Example */,
+				B903862D607A6F55CE3AC7CF64FEB8F9 /* Pods-KZImageComparisonView_Tests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		3C2C8623C8C564795303C15E9B6320ED /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				A9DAAB41C34E807EA5716DDB6E26C48C /* KZImageComparisonView.h */,
+				186B73B45608E4CA83E25AD33E4AFDDE /* KZImageComparisonView.m */,
+			);
+			name = Classes;
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
@@ -168,29 +140,35 @@
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				279FD2B22DEF4A0EF085BAE70CB3E54C /* Development Pods */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
-				97993A849A5DB1A5D48441FC14D13259 /* Products */,
-				2C70EBA61D8500E3CB2F93FB090B058A /* Targets Support Files */,
+				0EA7A44C29BF8CDC811C805849E3739C /* Products */,
+				294FF789F2611758AD3A6D337FE7B8C5 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		85D7EF876A6F73AE0911FFFEA9E27066 /* Classes */ = {
+		A86392EA978092AF9F7D7BE9239E39F5 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				685A4B7FFA1B5F906C5DFF59E4193EF1 /* KZImageComparisonView.h */,
-				15C36CE922ECDC0B81348B3792FCE8B1 /* KZImageComparisonView.m */,
+				423EA6FDAA456AA630B6778607E65978 /* KZImageComparisonView.xcconfig */,
+				494E8EFD2920D2E2C50D06D7A0470D1F /* KZImageComparisonView-dummy.m */,
+				33FE0027D297ECE76CAB4E8C9D8462F8 /* KZImageComparisonView-prefix.pch */,
 			);
-			name = Classes;
-			path = Classes;
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/KZImageComparisonView";
 			sourceTree = "<group>";
 		};
-		97993A849A5DB1A5D48441FC14D13259 /* Products */ = {
+		B903862D607A6F55CE3AC7CF64FEB8F9 /* Pods-KZImageComparisonView_Tests */ = {
 			isa = PBXGroup;
 			children = (
-				09ED3C90CFFB8539BA89B57B77173BF2 /* KZImageComparisonView.framework */,
-				DF2059CD2C941AAC86052CA2E0353C9E /* Pods_KZImageComparisonView_Example.framework */,
-				75D5803EB65410C872846ABB8BFC5DB5 /* Pods_KZImageComparisonView_Tests.framework */,
+				C046D8E94CEDCFCE84A4ECE71C99584F /* Pods-KZImageComparisonView_Tests-acknowledgements.markdown */,
+				6FB63F44E2B9104120D3DE8742A4D0A4 /* Pods-KZImageComparisonView_Tests-acknowledgements.plist */,
+				EB28B269D3657EE5A86AFFC3056495EE /* Pods-KZImageComparisonView_Tests-dummy.m */,
+				10DA49FE5C861F3768F8803955BB0406 /* Pods-KZImageComparisonView_Tests-frameworks.sh */,
+				F1B2C8AC17A9144F94F9D196E1C51F38 /* Pods-KZImageComparisonView_Tests-resources.sh */,
+				A479FA3EB15ADA2C208D749C5ED3891F /* Pods-KZImageComparisonView_Tests.debug.xcconfig */,
+				7730D19614F523E09C8E008B9D5EAAD4 /* Pods-KZImageComparisonView_Tests.release.xcconfig */,
 			);
-			name = Products;
+			name = "Pods-KZImageComparisonView_Tests";
+			path = "Target Support Files/Pods-KZImageComparisonView_Tests";
 			sourceTree = "<group>";
 		};
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
@@ -201,22 +179,13 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		D1B802A33BC64F247A88E54260EE8744 /* Pods-KZImageComparisonView_Tests */ = {
+		CCBF6011AD0ACD2DE9D9D7C82D3D9DA3 /* KZImageComparisonView */ = {
 			isa = PBXGroup;
 			children = (
-				EAD17E5853A697087DC0A849771FD2E9 /* Info.plist */,
-				6F55F88C884480E46FC181BC0B8E5E61 /* Pods-KZImageComparisonView_Tests.modulemap */,
-				1A037B6B0D10C126ADC10AB44FD5F152 /* Pods-KZImageComparisonView_Tests-acknowledgements.markdown */,
-				FFF84835B2D041C3C31565F89327C587 /* Pods-KZImageComparisonView_Tests-acknowledgements.plist */,
-				3559C620CAA537B99F3E662BF8E84726 /* Pods-KZImageComparisonView_Tests-dummy.m */,
-				1AED8466C6E6D33D4947B77DE04BF253 /* Pods-KZImageComparisonView_Tests-frameworks.sh */,
-				1A16C1FBF75F5AB7C91BB82381541A99 /* Pods-KZImageComparisonView_Tests-resources.sh */,
-				091C7534852BCC1B5C1F7EC7AB3905AB /* Pods-KZImageComparisonView_Tests-umbrella.h */,
-				FCDA5C7170EA898522D34D571BF4CB02 /* Pods-KZImageComparisonView_Tests.debug.xcconfig */,
-				D80D2F97033DAD502487315CD81E8ED7 /* Pods-KZImageComparisonView_Tests.release.xcconfig */,
+				3C2C8623C8C564795303C15E9B6320ED /* Classes */,
 			);
-			name = "Pods-KZImageComparisonView_Tests";
-			path = "Target Support Files/Pods-KZImageComparisonView_Tests";
+			name = KZImageComparisonView;
+			path = KZImageComparisonView;
 			sourceTree = "<group>";
 		};
 		D35AF013A5F0BAD4F32504907A52519E /* iOS */ = {
@@ -227,61 +196,36 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
+		F1403A4BD42942545A9F69F940B0F1E8 /* KZImageComparisonView */ = {
+			isa = PBXGroup;
+			children = (
+				CCBF6011AD0ACD2DE9D9D7C82D3D9DA3 /* KZImageComparisonView */,
+				A86392EA978092AF9F7D7BE9239E39F5 /* Support Files */,
+			);
+			name = KZImageComparisonView;
+			path = ../..;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		345882C9D512F686211BD53DBF3F7798 /* Headers */ = {
+		A0263BD6FABA7A8EAE79AF792C276B90 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F200072AF67560F899E840D9627FDD28 /* Pods-KZImageComparisonView_Example-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		740168D1F1A6212D19CBF0AB4315C763 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				CC6426504E4E2663D3C59795B2E24FEA /* KZImageComparisonView-umbrella.h in Headers */,
-				0D22CE4389717FDE03D067615BDE2E1C /* KZImageComparisonView.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		84D284B14994BCE230F016D1ED31F2EF /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8A43D09278B6DA25F28FC08803EDEE25 /* Pods-KZImageComparisonView_Tests-umbrella.h in Headers */,
+				64FFF0914F6063A9B374CC8B23EEF14E /* KZImageComparisonView.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		07CFCFF7413E588BBCBA9DCA74F3FD7B /* KZImageComparisonView */ = {
+		126427D812EAFC30396F4FAE6F6315A1 /* Pods-KZImageComparisonView_Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8B437453DC1BB24F30BBC2C7D101CB2B /* Build configuration list for PBXNativeTarget "KZImageComparisonView" */;
+			buildConfigurationList = 5A56322A80C4BAA674E898C111A2CF60 /* Build configuration list for PBXNativeTarget "Pods-KZImageComparisonView_Tests" */;
 			buildPhases = (
-				5B44871EFEDB61FF2607CB6F0D727C28 /* Sources */,
-				75BF16F1098992439CB4293ABBE34547 /* Frameworks */,
-				740168D1F1A6212D19CBF0AB4315C763 /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = KZImageComparisonView;
-			productName = KZImageComparisonView;
-			productReference = 09ED3C90CFFB8539BA89B57B77173BF2 /* KZImageComparisonView.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		3482DA6F09C9AB3A459C169D453EC51D /* Pods-KZImageComparisonView_Tests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = EF05599298C73BE861DEC68C5C9BB4B0 /* Build configuration list for PBXNativeTarget "Pods-KZImageComparisonView_Tests" */;
-			buildPhases = (
-				D20CE57F6D36857EC82FBA17980DDC42 /* Sources */,
-				8B60154EC5F48F175F633EA0A1D15006 /* Frameworks */,
-				84D284B14994BCE230F016D1ED31F2EF /* Headers */,
+				7549D93168664A8A0628F33D7A9E3491 /* Sources */,
+				C2708DDB93FDE7CD88B3C1D8B3CE3998 /* Frameworks */,
 			);
 			buildRules = (
 			);
@@ -289,26 +233,42 @@
 			);
 			name = "Pods-KZImageComparisonView_Tests";
 			productName = "Pods-KZImageComparisonView_Tests";
-			productReference = 75D5803EB65410C872846ABB8BFC5DB5 /* Pods_KZImageComparisonView_Tests.framework */;
-			productType = "com.apple.product-type.framework";
+			productReference = 0EA93F9E50E40DA2040F5AD77692B2B7 /* libPods-KZImageComparisonView_Tests.a */;
+			productType = "com.apple.product-type.library.static";
 		};
-		74681CC27B35BBA12EE463BB54DCDF47 /* Pods-KZImageComparisonView_Example */ = {
+		1896F962B5F637AC63F000060B047B20 /* KZImageComparisonView */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6EC546E078C82C72BA45229119E6AC64 /* Build configuration list for PBXNativeTarget "Pods-KZImageComparisonView_Example" */;
+			buildConfigurationList = 3E899FF6D46CC5DFAB24306F6F8F94A8 /* Build configuration list for PBXNativeTarget "KZImageComparisonView" */;
 			buildPhases = (
-				3470A4CD2FE7FCE1387F89406C66B0D4 /* Sources */,
-				C4B8214890201D288596D54AF27BC00B /* Frameworks */,
-				345882C9D512F686211BD53DBF3F7798 /* Headers */,
+				DD52F4C34248D2762F1487BCED95DCE7 /* Sources */,
+				3A450ED828CE6F3F1E9DC46EC91FE8A6 /* Frameworks */,
+				A0263BD6FABA7A8EAE79AF792C276B90 /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				2F5DF620E7C762419F92AD1C278A034F /* PBXTargetDependency */,
+			);
+			name = KZImageComparisonView;
+			productName = KZImageComparisonView;
+			productReference = 5C52F0BE02CE27542B8A7EEEDCE7940D /* libKZImageComparisonView.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		B6D227481AD89B7346630EBFD836A095 /* Pods-KZImageComparisonView_Example */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EB6D46DC628F195C3C2CBB9BC0C20D18 /* Build configuration list for PBXNativeTarget "Pods-KZImageComparisonView_Example" */;
+			buildPhases = (
+				F9CC159EA17EE54BEA7BAB62F255BB81 /* Sources */,
+				EBC421C9AFF64B3F0A4A9E74CC88EDE3 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7D2654B5ED28E087FB967DF14580E8C0 /* PBXTargetDependency */,
 			);
 			name = "Pods-KZImageComparisonView_Example";
 			productName = "Pods-KZImageComparisonView_Example";
-			productReference = DF2059CD2C941AAC86052CA2E0353C9E /* Pods_KZImageComparisonView_Example.framework */;
-			productType = "com.apple.product-type.framework";
+			productReference = FE9A7217B8F108F4DAECCC546F9C1EBD /* libPods-KZImageComparisonView_Example.a */;
+			productType = "com.apple.product-type.library.static";
 		};
 /* End PBXNativeTarget section */
 
@@ -327,159 +287,123 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = 97993A849A5DB1A5D48441FC14D13259 /* Products */;
+			productRefGroup = 0EA7A44C29BF8CDC811C805849E3739C /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				07CFCFF7413E588BBCBA9DCA74F3FD7B /* KZImageComparisonView */,
-				74681CC27B35BBA12EE463BB54DCDF47 /* Pods-KZImageComparisonView_Example */,
-				3482DA6F09C9AB3A459C169D453EC51D /* Pods-KZImageComparisonView_Tests */,
+				1896F962B5F637AC63F000060B047B20 /* KZImageComparisonView */,
+				B6D227481AD89B7346630EBFD836A095 /* Pods-KZImageComparisonView_Example */,
+				126427D812EAFC30396F4FAE6F6315A1 /* Pods-KZImageComparisonView_Tests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		3470A4CD2FE7FCE1387F89406C66B0D4 /* Sources */ = {
+		7549D93168664A8A0628F33D7A9E3491 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7AB67F7BE9DFC649BFF1FE652F37C9DF /* Pods-KZImageComparisonView_Example-dummy.m in Sources */,
+				F2246FC775C06747E73D1ECD50EFDC14 /* Pods-KZImageComparisonView_Tests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5B44871EFEDB61FF2607CB6F0D727C28 /* Sources */ = {
+		DD52F4C34248D2762F1487BCED95DCE7 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E3FEA634C1C5539305D7202F3CAE3A1B /* KZImageComparisonView-dummy.m in Sources */,
-				47823ED431033E26E621FB94229EBBCF /* KZImageComparisonView.m in Sources */,
+				683311368147456368AE2280E24B9421 /* KZImageComparisonView-dummy.m in Sources */,
+				8F57DF096D05F271DD4FD33A3100A352 /* KZImageComparisonView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D20CE57F6D36857EC82FBA17980DDC42 /* Sources */ = {
+		F9CC159EA17EE54BEA7BAB62F255BB81 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DC67ABD1BAA42E4A7B0A219F28A33C9B /* Pods-KZImageComparisonView_Tests-dummy.m in Sources */,
+				58154C07EACE909304869DFA37A7641B /* Pods-KZImageComparisonView_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		2F5DF620E7C762419F92AD1C278A034F /* PBXTargetDependency */ = {
+		7D2654B5ED28E087FB967DF14580E8C0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = KZImageComparisonView;
-			target = 07CFCFF7413E588BBCBA9DCA74F3FD7B /* KZImageComparisonView */;
-			targetProxy = 850A651D7C1D72982F10594CFEF7428A /* PBXContainerItemProxy */;
+			target = 1896F962B5F637AC63F000060B047B20 /* KZImageComparisonView */;
+			targetProxy = A3A51AEC320B273E5D5F70183CE43394 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		06ECD9CE56A5199C9189D7845AFDC0B2 /* Debug */ = {
+		2CED20994875A2857C17B68FE4D70653 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 31E41C898EEC63D6580622CF8D4470A3 /* KZImageComparisonView.xcconfig */;
+			baseConfigurationReference = 7730D19614F523E09C8E008B9D5EAAD4 /* Pods-KZImageComparisonView_Tests.release.xcconfig */;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/KZImageComparisonView/KZImageComparisonView-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/KZImageComparisonView/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/KZImageComparisonView/KZImageComparisonView.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = KZImageComparisonView;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		52F3DAFE76617B96BB5BAA4F79167B1B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 56D236D4FC563C880E4500CFBE341CBE /* Pods-KZImageComparisonView_Example.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 			};
 			name = Debug;
 		};
-		4C95298C0571698DC5211433786D8471 /* Release */ = {
+		5DE72E9B822716FD069AF8013548FB94 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EFBF5C29D43E9E9D043EFA4390BB99B8 /* Pods-KZImageComparisonView_Example.release.xcconfig */;
+			baseConfigurationReference = A479FA3EB15ADA2C208D749C5ED3891F /* Pods-KZImageComparisonView_Tests.debug.xcconfig */;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-KZImageComparisonView_Example/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-KZImageComparisonView_Example/Pods-KZImageComparisonView_Example.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_KZImageComparisonView_Example;
+				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
-		};
-		4DD292BCDBE2C4A70EBCD23E1325514D /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = D80D2F97033DAD502487315CD81E8ED7 /* Pods-KZImageComparisonView_Tests.release.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-KZImageComparisonView_Tests/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-KZImageComparisonView_Tests/Pods-KZImageComparisonView_Tests.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_KZImageComparisonView_Tests;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
+			name = Debug;
 		};
 		717E77604BFBB04BEAF56608A1CB2EDE /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -525,39 +449,50 @@
 			};
 			name = Release;
 		};
-		8CA185E262ACAF5065B68CF37B85398D /* Debug */ = {
+		785011530B49DDF693AC52A283911691 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FCDA5C7170EA898522D34D571BF4CB02 /* Pods-KZImageComparisonView_Tests.debug.xcconfig */;
+			baseConfigurationReference = 7FBD11CC3FD87AF5771A61BE1BCCEBF0 /* Pods-KZImageComparisonView_Example.release.xcconfig */;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-KZImageComparisonView_Tests/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-KZImageComparisonView_Tests/Pods-KZImageComparisonView_Tests.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_KZImageComparisonView_Tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		852E87F45EEED118716D8B7F6D1B5113 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 423EA6FDAA456AA630B6778607E65978 /* KZImageComparisonView.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/KZImageComparisonView/KZImageComparisonView-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 			};
 			name = Debug;
 		};
@@ -610,74 +545,29 @@
 			};
 			name = Debug;
 		};
-		E091AAD657AB73633B9E0DC50BC5AD88 /* Release */ = {
+		B283EEC0B9103371232BDF343D782197 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 31E41C898EEC63D6580622CF8D4470A3 /* KZImageComparisonView.xcconfig */;
+			baseConfigurationReference = 423EA6FDAA456AA630B6778607E65978 /* KZImageComparisonView.xcconfig */;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/KZImageComparisonView/KZImageComparisonView-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/KZImageComparisonView/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/KZImageComparisonView/KZImageComparisonView.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = KZImageComparisonView;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
-		};
-		ED32ACC2AFD66334A4597B33897F19B9 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = CFBD4BE2374874BFC2489347E9D177F5 /* Pods-KZImageComparisonView_Example.debug.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-KZImageComparisonView_Example/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-KZImageComparisonView_Example/Pods-KZImageComparisonView_Example.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_KZImageComparisonView_Example;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
 		};
 /* End XCBuildConfiguration section */
 
@@ -691,29 +581,29 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6EC546E078C82C72BA45229119E6AC64 /* Build configuration list for PBXNativeTarget "Pods-KZImageComparisonView_Example" */ = {
+		3E899FF6D46CC5DFAB24306F6F8F94A8 /* Build configuration list for PBXNativeTarget "KZImageComparisonView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				ED32ACC2AFD66334A4597B33897F19B9 /* Debug */,
-				4C95298C0571698DC5211433786D8471 /* Release */,
+				852E87F45EEED118716D8B7F6D1B5113 /* Debug */,
+				B283EEC0B9103371232BDF343D782197 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8B437453DC1BB24F30BBC2C7D101CB2B /* Build configuration list for PBXNativeTarget "KZImageComparisonView" */ = {
+		5A56322A80C4BAA674E898C111A2CF60 /* Build configuration list for PBXNativeTarget "Pods-KZImageComparisonView_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				06ECD9CE56A5199C9189D7845AFDC0B2 /* Debug */,
-				E091AAD657AB73633B9E0DC50BC5AD88 /* Release */,
+				5DE72E9B822716FD069AF8013548FB94 /* Debug */,
+				2CED20994875A2857C17B68FE4D70653 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EF05599298C73BE861DEC68C5C9BB4B0 /* Build configuration list for PBXNativeTarget "Pods-KZImageComparisonView_Tests" */ = {
+		EB6D46DC628F195C3C2CBB9BC0C20D18 /* Build configuration list for PBXNativeTarget "Pods-KZImageComparisonView_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8CA185E262ACAF5065B68CF37B85398D /* Debug */,
-				4DD292BCDBE2C4A70EBCD23E1325514D /* Release */,
+				52F3DAFE76617B96BB5BAA4F79167B1B /* Debug */,
+				785011530B49DDF693AC52A283911691 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

@@ -1,6 +1,0 @@
-framework module Pods_KZImageComparisonView_Example {
-  umbrella header "Pods-KZImageComparisonView_Example-umbrella.h"
-
-  export *
-  module * { export * }
-}

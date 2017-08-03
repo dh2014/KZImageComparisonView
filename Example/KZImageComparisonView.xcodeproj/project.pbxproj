@@ -7,8 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00A01610DD9FBCE765689E58 /* Pods_KZImageComparisonView_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 95E7637BDFA05F2D41089859 /* Pods_KZImageComparisonView_Tests.framework */; };
-		39285596752534EE095593FD /* Pods_KZImageComparisonView_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 12BFD0241C8EA76E96F3DF8A /* Pods_KZImageComparisonView_Example.framework */; };
+		14E5914B964E9F77FD7035D9 /* libPods-KZImageComparisonView_Example.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F36DB90DAD7ED144655FF5C /* libPods-KZImageComparisonView_Example.a */; };
 		6003F58E195388D20070C39A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58D195388D20070C39A /* Foundation.framework */; };
 		6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58F195388D20070C39A /* CoreGraphics.framework */; };
 		6003F592195388D20070C39A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F591195388D20070C39A /* UIKit.framework */; };
@@ -23,6 +22,7 @@
 		6003F5BA195388D20070C39A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6003F5B8195388D20070C39A /* InfoPlist.strings */; };
 		6003F5BC195388D20070C39A /* Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5BB195388D20070C39A /* Tests.m */; };
 		71719F9F1E33DC2100824A3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71719F9D1E33DC2100824A3D /* LaunchScreen.storyboard */; };
+		7EB61ECFACDA0D82F8FB97C4 /* libPods-KZImageComparisonView_Tests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CEA1C0530938AAB987D53B2 /* libPods-KZImageComparisonView_Tests.a */; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -37,8 +37,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		12BFD0241C8EA76E96F3DF8A /* Pods_KZImageComparisonView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KZImageComparisonView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F36DB90DAD7ED144655FF5C /* libPods-KZImageComparisonView_Example.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-KZImageComparisonView_Example.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C71ECD505E0C5D634EE1C4B /* Pods-KZImageComparisonView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KZImageComparisonView_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-KZImageComparisonView_Example/Pods-KZImageComparisonView_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		4CEA1C0530938AAB987D53B2 /* libPods-KZImageComparisonView_Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-KZImageComparisonView_Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		522688E70CBFA67C93558AEE /* Pods-KZImageComparisonView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KZImageComparisonView_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-KZImageComparisonView_Tests/Pods-KZImageComparisonView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* KZImageComparisonView_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KZImageComparisonView_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -61,7 +62,6 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		95E7637BDFA05F2D41089859 /* Pods_KZImageComparisonView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KZImageComparisonView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAD623946EC6D41CBAC1E7FF /* KZImageComparisonView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = KZImageComparisonView.podspec; path = ../KZImageComparisonView.podspec; sourceTree = "<group>"; };
 		BBBB33CB2EF3C79CE536D438 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		BCE1B8B61AF783E68FE37496 /* Pods-KZImageComparisonView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KZImageComparisonView_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-KZImageComparisonView_Tests/Pods-KZImageComparisonView_Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -77,7 +77,7 @@
 				6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */,
 				6003F592195388D20070C39A /* UIKit.framework in Frameworks */,
 				6003F58E195388D20070C39A /* Foundation.framework in Frameworks */,
-				39285596752534EE095593FD /* Pods_KZImageComparisonView_Example.framework in Frameworks */,
+				14E5914B964E9F77FD7035D9 /* libPods-KZImageComparisonView_Example.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -88,7 +88,7 @@
 				6003F5B0195388D20070C39A /* XCTest.framework in Frameworks */,
 				6003F5B2195388D20070C39A /* UIKit.framework in Frameworks */,
 				6003F5B1195388D20070C39A /* Foundation.framework in Frameworks */,
-				00A01610DD9FBCE765689E58 /* Pods_KZImageComparisonView_Tests.framework in Frameworks */,
+				7EB61ECFACDA0D82F8FB97C4 /* libPods-KZImageComparisonView_Tests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -134,8 +134,8 @@
 				6003F58F195388D20070C39A /* CoreGraphics.framework */,
 				6003F591195388D20070C39A /* UIKit.framework */,
 				6003F5AF195388D20070C39A /* XCTest.framework */,
-				12BFD0241C8EA76E96F3DF8A /* Pods_KZImageComparisonView_Example.framework */,
-				95E7637BDFA05F2D41089859 /* Pods_KZImageComparisonView_Tests.framework */,
+				0F36DB90DAD7ED144655FF5C /* libPods-KZImageComparisonView_Example.a */,
+				4CEA1C0530938AAB987D53B2 /* libPods-KZImageComparisonView_Tests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
