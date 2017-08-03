@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  KZImageComparisonView: c907671f9ff75f5868700c9ef6f64aad4ede0e09
+  KZImageComparisonView: df039374ca0a6347d2223affe31fe40a6a2d144b
 
 PODFILE CHECKSUM: 9dbeecb6521e2eaf0cac58de153470f192707538
 
