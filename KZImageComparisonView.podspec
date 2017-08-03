@@ -30,8 +30,8 @@ DESC
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'KZImageComparisonView/Classes/**/*'
-  
+  s.source_files = 'KZImageComparisonView/Classes/*.{h,m}'
+
   # s.resource_bundles = {
   #   'KZImageComparisonView' => ['KZImageComparisonView/Assets/*.png']
   # }
