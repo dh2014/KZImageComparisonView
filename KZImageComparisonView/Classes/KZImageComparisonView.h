@@ -11,15 +11,13 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- *  @Discussion
- *      A KZImageComparisonView allows u to present two images along with a visual control used to slide the separating view.
+ *  A KZImageComparisonView allows u to present two images along with a visual control used to slide the separating view.
  */
 IB_DESIGNABLE @interface KZImageComparisonView : UIView
 
 /**
- *  @Discussion
- *      Returns an image comparison view initialized with the specified images.
- *       The images you specified is used to configure the initial size of the comparison view itself. Use constraints and the comparison view's content mode to adjust the comparison view's final size onscreen.
+ *  Returns an image comparison view initialized with the specified images.
+ *  The images you specified are used to configure the initial size of the comparison view itself. Use constraints and the comparison view's content mode to adjust the comparison view's final size onscreen.
  */
 - (instancetype)initWithLeftImage:(UIImage *)leftImage
                        rightImage:(UIImage *)rightImage
@@ -30,10 +28,9 @@ IB_DESIGNABLE @interface KZImageComparisonView : UIView
 @property (nonatomic, strong) IBInspectable UIImage *separatingImage;
 
 /**
- *  @Discussion
- *      The slider’s current value.
- *      Use this property to get and set the slider’s current value.
- *      If you try to set a value that is below the minimum or above the maximum, the minimum or maximum value is set instead. The default value of this property is 0.0.
+ *  The slider’s current value.
+ *  Use this property to get and set the slider’s current value.
+ *  If you try to set a value that is below the minimum or above the maximum, the minimum or maximum value is set instead. The default value of this property is 0.5.
  */
 @property (nonatomic) CGFloat separatorRelativePosition;
 
