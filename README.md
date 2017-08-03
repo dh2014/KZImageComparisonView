@@ -1,5 +1,8 @@
 # KZImageComparisonView
 
+A KZImageComparisonView allows u to present two images along with a visual control used to slide the separating view.
+
+
 [![CI Status](http://img.shields.io/travis/konstantinzhzh/KZImageComparisonView.svg?style=flat)](https://travis-ci.org/konstantinzhzh/KZImageComparisonView)
 [![Version](https://img.shields.io/cocoapods/v/KZImageComparisonView.svg?style=flat)](http://cocoapods.org/pods/KZImageComparisonView)
 [![License](https://img.shields.io/cocoapods/l/KZImageComparisonView.svg?style=flat)](http://cocoapods.org/pods/KZImageComparisonView)
